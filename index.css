@@ -1,0 +1,244 @@
+/* CSS */
+.button-28 {
+    appearance: none;
+    background-color: black;
+    border: 2px solid rgb(7, 7, 7);
+
+    box-sizing: border-box;
+    color: #fcf9f9;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    will-change: transform;
+}
+
+.button-28:disabled {
+    pointer-events: none;
+}
+
+.button-28:hover {
+    color: #0f0e0e;
+    background-color: #fffefe;
+    box-shadow: rgba(11, 11, 11, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.button-28:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+/* CSS */
+.button-31 {
+    background-color: #222;
+
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 0;
+    max-width: none;
+    min-height: 44px;
+    min-width: 10px;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 20px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+}
+
+.button-31:hover,
+.button-31:focus {
+    opacity: .75;
+}
+
+
+.main {
+    background-image: url("https://static.wixstatic.com/media/11062b_9de2dbff3dda403b944bb98c41cb5764f000.jpg/v1/fill/w_1903,h_912,al_c,q_85,usm_0.33_1.00_0.00,enc_auto/11062b_9de2dbff3dda403b944bb98c41cb5764f000.jpg");
+    /* height: 950px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.A {
+    background-image: url("https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1900,h_1067,al_c,q_90,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+    /* height: 850px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.B {
+    border: 5px solid black;
+}
+
+.C {
+    border-bottom: 2px solid black;
+    padding-bottom: 10%;
+}
+
+input {
+    border: 2px solid black;
+    background-color: transparent;
+    margin: 10%;
+    padding: 2%;
+    width: 110%;
+
+}
+
+.Serviceimg {
+    background-image: url("https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1900,h_1067,al_c,q_90,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+    /* height: 1000px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.planss {
+    background-image: url("https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1900,h_1067,al_c,q_90,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+    /* height: 1200px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.blogg {
+    background-image: url("https://static.wixstatic.com/media/84770f_62bea82dec60407d81320c967a003c1f~mv2_d_5468_2742_s_4_2.jpg/v1/fill/w_1903,h_891,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_62bea82dec60407d81320c967a003c1f~mv2_d_5468_2742_s_4_2.jpg");
+     height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.guidess {
+    background-image: url("https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1900,h_1067,al_c,q_90,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+    /* height: 1000px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+/* CSS */
+.button-32 {
+    background-color: rgb(49, 127, 129, 1);
+
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 0;
+    max-width: none;
+    min-height: 44px;
+    min-width: 10px;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 20px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+}
+
+.button-32:hover,
+.button-32:focus {
+    opacity: .75;
+}
+
+.nav-item:hover,
+.nav-link:hover {
+    color: rgb(49, 127, 129, 1) !important;
+
+    transform: translateY(-2px);
+}
+
+.nav-link {
+    color: black !important
+}
+
+.coatching:hover,
+.coatching:focus {
+    opacity: .75;
+}
+
+input:hover {
+    transform: translateY(-2px);
+}
+
+/* @media only screen and (max-width:1000px) {
+    .top {
+        height: 100px;
+    }
+} */
+
+@media only screen and (max-width:1000px) {
+    a {
+        display: flex !important;
+        font-size: 10px !important;
+        padding: -10% !important;
+        flex-wrap: wrap !important;
+        height: 2px !important;
+    }
+}
+
+@media only screen and (max-width:1100px) {
+    .main {
+       
+     margin-top: 60% !important;
+
+    }
+}
+.para{
+    margin-top: -10% !important;
+}
+@media only screen and (max-width:1100px) {
+    .logo {
+        display: flex !important;
+        font-size: 10px !important;
+        padding: -10% !important;
+        flex-wrap: wrap !important;
+        height: 2px !important;
+
+    }
+}
+
+
+
+
